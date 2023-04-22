@@ -79,26 +79,32 @@
 
 ·     Nslookup
 
-
+`       `![](Aspose.Words.46289d4f-3e1b-460a-9bea-9956181cc4b0.001.png)
 
 ·     Dig
 
-
+`     `![](Aspose.Words.46289d4f-3e1b-460a-9bea-9956181cc4b0.002.png)
 
 ·     Netstat
+
+![](Aspose.Words.46289d4f-3e1b-460a-9bea-9956181cc4b0.003.png)
 
 ·     Tracepath
 
 
 
 
-
+![](Aspose.Words.46289d4f-3e1b-460a-9bea-9956181cc4b0.004.png)
 
 
 
 ·     Traceroute
 
+![](Aspose.Words.46289d4f-3e1b-460a-9bea-9956181cc4b0.005.png)
+
 ·     Mtr
+
+![](Aspose.Words.46289d4f-3e1b-460a-9bea-9956181cc4b0.006.png)
 
 9\.    Расскажите, что каждая из них делает?
 
